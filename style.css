@@ -1,0 +1,43 @@
+
+.heading{
+    width: 100%;
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    font-size: 1px;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-stretch: ultra-condensed;
+    font-variant-ligatures:historical-ligatures;
+    font-language-override: normal;
+    font-kerning: auto;
+text-transform: capitalize;
+    }
+    .heading h2{
+    display: inline;
+    }
+    .heading button{
+    float: right;
+    }
+    
+    .start{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    }
+    
+    .footer{
+        width: 100%;
+        background-color: yellow;
+        font-weight: bold;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        line-height: 2;
+        }
+        
+        
+        .modal-dialog{
+        width: 80%;
+        height: 80%;
+        }
+        
